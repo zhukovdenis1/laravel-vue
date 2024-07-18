@@ -1,0 +1,64 @@
+{
+  "__plugin-vue_export-helper-DlAUqK2U.js": {
+    "file": "assets/_plugin-vue_export-helper-DlAUqK2U.js",
+    "name": "_plugin-vue_export-helper"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CRhtLMJh.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/components/Person/Index.vue",
+      "resources/js/components/Person/Index.vue",
+      "resources/js/components/Person/Create.vue",
+      "resources/js/components/Person/Edit.vue",
+      "resources/js/components/Person/Show.vue"
+    ]
+  },
+  "resources/js/components/Person/Create.vue": {
+    "file": "assets/Create-CxRxy9Dv.js",
+    "name": "Create",
+    "src": "resources/js/components/Person/Create.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/js/components/Person/Edit.vue": {
+    "file": "assets/Edit-DCRQoDOH.js",
+    "name": "Edit",
+    "src": "resources/js/components/Person/Edit.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/js/components/Person/Index.vue": {
+    "file": "assets/Index-CEB6gt1K.js",
+    "name": "Index",
+    "src": "resources/js/components/Person/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/js/components/Person/Show.vue": {
+    "file": "assets/Show-CxKynb1N.js",
+    "name": "Show",
+    "src": "resources/js/components/Person/Show.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-D-sv12UV.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
